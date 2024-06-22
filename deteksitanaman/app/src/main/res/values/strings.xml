@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Deteksi Tanaman</string>
+    <string name="syaratKetentuan"><![CDATA[Menyetujui Syarat & Ketentuan Yang Berlaku]]></string>
+    <string name="register">Daftar</string>
+    <string name="textLogin">"Sudah Memiliki Akun? "</string>
+    <string name="loginBtnText">Login</string>
+    <string name="login">Masuk</string>
+    <string name="forgetPass">Lupa Password?</string>
+    <string name="noAccount">Belum Memiliki Akun?</string>
+    <string name="fullNameHint">fullname</string>
+    <string name="emailHint">email</string>
+    <string name="usernameHint">Username</string>
+    <string name="addressHint">Address</string>
+    <string name="passwordHint">Password</string>
+    <string name="artikelText">Artikel</string>
+    <string name="backText">Kembali</string>
+    <string name="placeholderPlant">Bunga Contoh</string>
+    <string name="deskripsiText">Deskripsi</string>
+    <string name="descPlaceholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Vivamus laoreet tincidunt lacus, eu fermentum risus vestibulum non. Sed consequat urna vel turpis sollicitudin interdum.</string>
+    <string name="savetext">Simpan</string>
+    <string name="permission_not_granted">gagal mendapatkan izin kamera</string>
+    <string name="numberHint">Phone Number</string>
+    <string name="empty_field">Fill all fields!</string>
+    <string name="no_image">Silahkan pilih gambar terlebih dahulu untuk di analyze</string>
+    <string name="sayuran">Sayuran</string>
+    <string name="plant_desc">Sayuran adalah bagian tumbuhan yang dikonsumsi oleh manusia sebagai makanan. Mereka kaya akan nutrisi penting, termasuk vitamin, mineral, serat, dan antioksidan. Sayuran dapat dikonsumsi dalam berbagai cara, termasuk mentah, dimasak, atau dijadikan jus. Contoh umum sayuran meliputi brokoli, bayam, wortel, kentang, dan tomat. Mengonsumsi beragam sayuran secara teratur dapat mendukung kesehatan tubuh, meningkatkan sistem kekebalan, dan mengurangi risiko berbagai penyakit kronis.</string>
+    <string name="plant_name">Bunga Kol</string>
+    <string name="deleteSuccess">berhasil hapus data dari database</string>
+    <string name="nameUser">Hello %1$s</string>
+
+    <integer-array name="articleImage">
+        <item>@drawable/bungakol</item>
+        <item>@drawable/jagung</item>
+    </integer-array>
+
+    <string-array name="articleText">
+        <item>Kembang kol atau bunga kol merupakan tumbuhan yang termasuk dalam kelompok botrytis dari jenis Brassica oleracea (suku Brassicaceae).</item>
+        <item>Jagung adalah salah satu tanaman pangan penghasil karbohidrat yang terpenting di dunia, selain gandum dan padi.</item>
+    </string-array>
+
+</resources>
